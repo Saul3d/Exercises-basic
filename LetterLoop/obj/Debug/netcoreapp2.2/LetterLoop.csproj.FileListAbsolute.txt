@@ -1,0 +1,11 @@
+C:\Users\saul3\source\repos\Exercises\LetterLoop\bin\Debug\netcoreapp2.2\LetterLoop.deps.json
+C:\Users\saul3\source\repos\Exercises\LetterLoop\bin\Debug\netcoreapp2.2\LetterLoop.runtimeconfig.json
+C:\Users\saul3\source\repos\Exercises\LetterLoop\bin\Debug\netcoreapp2.2\LetterLoop.runtimeconfig.dev.json
+C:\Users\saul3\source\repos\Exercises\LetterLoop\bin\Debug\netcoreapp2.2\LetterLoop.dll
+C:\Users\saul3\source\repos\Exercises\LetterLoop\bin\Debug\netcoreapp2.2\LetterLoop.pdb
+C:\Users\saul3\source\repos\Exercises\LetterLoop\obj\Debug\netcoreapp2.2\LetterLoop.csprojAssemblyReference.cache
+C:\Users\saul3\source\repos\Exercises\LetterLoop\obj\Debug\netcoreapp2.2\LetterLoop.csproj.CoreCompileInputs.cache
+C:\Users\saul3\source\repos\Exercises\LetterLoop\obj\Debug\netcoreapp2.2\LetterLoop.AssemblyInfoInputs.cache
+C:\Users\saul3\source\repos\Exercises\LetterLoop\obj\Debug\netcoreapp2.2\LetterLoop.AssemblyInfo.cs
+C:\Users\saul3\source\repos\Exercises\LetterLoop\obj\Debug\netcoreapp2.2\LetterLoop.dll
+C:\Users\saul3\source\repos\Exercises\LetterLoop\obj\Debug\netcoreapp2.2\LetterLoop.pdb

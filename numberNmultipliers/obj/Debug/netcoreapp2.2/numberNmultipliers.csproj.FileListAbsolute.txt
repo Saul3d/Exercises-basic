@@ -1,0 +1,11 @@
+C:\Users\saul3\source\repos\Exercises\numberNmultipliers\bin\Debug\netcoreapp2.2\numberNmultipliers.deps.json
+C:\Users\saul3\source\repos\Exercises\numberNmultipliers\bin\Debug\netcoreapp2.2\numberNmultipliers.runtimeconfig.json
+C:\Users\saul3\source\repos\Exercises\numberNmultipliers\bin\Debug\netcoreapp2.2\numberNmultipliers.runtimeconfig.dev.json
+C:\Users\saul3\source\repos\Exercises\numberNmultipliers\bin\Debug\netcoreapp2.2\numberNmultipliers.dll
+C:\Users\saul3\source\repos\Exercises\numberNmultipliers\bin\Debug\netcoreapp2.2\numberNmultipliers.pdb
+C:\Users\saul3\source\repos\Exercises\numberNmultipliers\obj\Debug\netcoreapp2.2\numberNmultipliers.csproj.CoreCompileInputs.cache
+C:\Users\saul3\source\repos\Exercises\numberNmultipliers\obj\Debug\netcoreapp2.2\numberNmultipliers.AssemblyInfoInputs.cache
+C:\Users\saul3\source\repos\Exercises\numberNmultipliers\obj\Debug\netcoreapp2.2\numberNmultipliers.AssemblyInfo.cs
+C:\Users\saul3\source\repos\Exercises\numberNmultipliers\obj\Debug\netcoreapp2.2\numberNmultipliers.dll
+C:\Users\saul3\source\repos\Exercises\numberNmultipliers\obj\Debug\netcoreapp2.2\numberNmultipliers.pdb
+C:\Users\saul3\source\repos\Exercises\numberNmultipliers\obj\Debug\netcoreapp2.2\numberNmultipliers.csprojAssemblyReference.cache
